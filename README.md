@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @will-da-pro
 - 👀 I’m interested in programming games
 - 🌱 I’m currently learning Python & C#
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 💞️ I’m looking to collaborate on Unity and Roblox games
 - 📫 How to reach me: william@dolier.net
 
 <!---
